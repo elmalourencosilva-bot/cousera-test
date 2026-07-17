@@ -1,0 +1,24 @@
+/* Estilos para diferenciar o menu suspenso no mobile */
+.navbar-nav {
+    background-color: #f8f8f8; /* Cor que destaca o menu */
+    margin: 0 -15px; /* Faz o menu ocupar toda a largura da tela */
+}
+
+.navbar-nav > li > a {
+    border-top: 1px solid #e7e7e7; /* Linha divisória entre os itens */
+    color: #333 !important;
+}
+
+/* Estilização da seção de conteúdo principal */
+.main-content-box {
+    background-color: #e6e6e6; /* Cor de fundo diferenciada */
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+
+/* Estilo para destacar o título */
+h1 {
+    font-weight: bold;
+    margin-bottom: 25px;
+}
